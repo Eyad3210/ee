@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829081335534",
+    "project_id": "mypharmacy-97198",
+    "storage_bucket": "mypharmacy-97198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829081335534:android:2295d5de521a7013a965ff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829081335534-csseoe1al88hr6kco0dncetmjjifrvnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "8826b2bc899723267da94a5021527149eccbffdc"
+          }
+        },
+        {
+          "client_id": "829081335534-0q1p6shjfb1j23unrsd4crj901b8dbtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK1HUjuWxg4waj82HZgeDlWTq0YeV6i5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829081335534-0q1p6shjfb1j23unrsd4crj901b8dbtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
